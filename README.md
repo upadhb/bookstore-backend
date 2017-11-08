@@ -1,11 +1,11 @@
 # bookstore-backend
 
-### backend written in Java EE for managing books for a bookstore
+Backend API written in Java EE for managing books for a bookstore
 
 ## This app uses:
-  ### maven as build and package manager
-  ### JOBSS (Wildfly) as application server
-  ### H2 as database for inbuilt storing
+  1. maven as build and package manager
+  2. JOBSS (Wildfly) as application server
+  3. H2 as database for inbuilt storing
   
  ## To run:
   . import the source code
