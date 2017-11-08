@@ -8,14 +8,14 @@ Backend API written in Java EE for managing books for a bookstore
   3. H2 as database for inbuilt storing
   
  ## To run:
-  . import the source code
-  . build it as maven project (clean, install, compile)
-  . setup your local instance of Wildfly - and run it
-  . build the app 
-  . run and deployt the app in Wildfly
-  . access the app at http://localhost:8080/bookstore-back/
+  1. import the source code
+  2. build it as maven project (clean, install, compile)
+  3. setup your local instance of Wildfly - and run it
+  4. build the app 
+  5. run and deployt the app in Wildfly
+  6. access the app at http://localhost:8080/bookstore-back/
   
  ## to access the API
-   . use any third party tool like Postman
-   . use inbuild Rest plugins available in IDE, like in Intellij
-   . use swagger-ui created by this app (once hosted in Wildfly) at http://localhost:8080/bookstore-back/swagger-ui/#/
+   1. use any third party tool like Postman
+   2. use inbuild Rest plugins available in IDE, like in Intellij
+   3. use swagger-ui created by this app (once hosted in Wildfly) at http://localhost:8080/bookstore-back/swagger-ui/#/
